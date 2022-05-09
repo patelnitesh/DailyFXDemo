@@ -53,6 +53,7 @@ struct MarketsView: View {
                             } // section
                         } // foreach
                     } // List end
+                    .animation(.spring(response: 1.5), value: marketType)
                 } // V stack
                 .navigationTitle("Markets")
                 .refreshable {
