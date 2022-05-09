@@ -38,6 +38,9 @@ struct DashboardView: View {
                 }// List
             }
             .navigationTitle(Text("Articles"))
+            .refreshable {
+                viewModel.getArticles()
+            }
         }// Nav
     }
     

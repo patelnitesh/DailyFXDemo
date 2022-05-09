@@ -55,6 +55,9 @@ struct MarketsView: View {
                     } // List end
                 } // V stack
                 .navigationTitle("Markets")
+                .refreshable {
+                    viewModel.getMarkets()
+                }
             } // Nav end
         }
     }

@@ -35,7 +35,6 @@ public class DashBoardViewModel: ObservableObject {
     }
     
     func getArticles() {
-        print("** Get Articles called")
         self.state = .loading
         let cancellable = self.service
             .requestArticles(from: .getArticles)
@@ -49,8 +48,6 @@ public class DashBoardViewModel: ObservableObject {
                 }
             } receiveValue: { res in
                 self.dashboardResponse = res
-//                let newsResponse = Bundle.main.decode(ArticlesResponse.self, from: "NewsArticles.json")
-//                self.dashboardResponse =  newsResponse
             }
         
         self.cancellable.insert(cancellable)
@@ -62,10 +59,11 @@ public class DashBoardViewModel: ObservableObject {
             return []
         }
         var dashboardData: [DisplayableArticlesSections]
-        dashboardData = [DisplayableArticlesSections(header: .topNews, rows: newsArticles.topNews),
-                         DisplayableArticlesSections(header: .technicalAnalysis, rows: newsArticles.technicalAnalysis),
-                         DisplayableArticlesSections(header: .specialReport, rows: newsArticles.specialReport)]
+        
+        dashboardData = [DisplayableArticlesSections(header: .topNews, rows: newsArticles.topNews)]
         dashboardData.append(contentsOf: regionSpecificArticles())
+        dashboardData.append(contentsOf: [DisplayableArticlesSections(header: .technicalAnalysis, rows: newsArticles.technicalAnalysis),
+                             DisplayableArticlesSections(header: .specialReport, rows: newsArticles.specialReport)])
         return dashboardData
     }
     
