@@ -22,6 +22,12 @@ enum ArticleType: String {
     case specialReport = "Special Report"
 }
 
+enum Region: String {
+    case EU = "Europe"
+    case US = "United States"
+    case ASIA = "Asia & Oceania"
+}
+
 public class DashBoardViewModel: ObservableObject {
     
     private let service: DailyFxService
@@ -78,19 +84,19 @@ public class DashBoardViewModel: ObservableObject {
         var dailyBriefingsRows: [Article] = []
         dailyBriefingsRows = newsArticles.dailyBriefings.eu.map { article -> Article in
             var newArticle = article
-            newArticle.region = "EU"
+            newArticle.region = .EU
             return newArticle
         }
         
         dailyBriefingsRows.append(contentsOf: newsArticles.dailyBriefings.asia.map { article -> Article in
             var newArticle = article
-            newArticle.region = "ASIA"
+            newArticle.region = .ASIA
             return newArticle
         })
         
         dailyBriefingsRows.append(contentsOf: newsArticles.dailyBriefings.us.map { article -> Article in
             var newArticle = article
-            newArticle.region = "US"
+            newArticle.region = .US
             return newArticle
         })
         

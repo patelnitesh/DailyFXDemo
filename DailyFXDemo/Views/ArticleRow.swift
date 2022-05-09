@@ -12,7 +12,10 @@ struct ArticleRow: View {
     var body: some View {
         VStack(alignment: .leading, spacing: 10) {
             if let region = newsArticle.region {
-                Text(region).font(.headline)
+                HStack(alignment: .center, spacing: 5) {
+                    Image(systemName: newsArticle.regionImageName)
+                    Text(region.rawValue).font(.headline)
+                }
             }
             Text(newsArticle.title).font(.headline)
             Text(newsArticle.specialReportDescription).font(.callout)

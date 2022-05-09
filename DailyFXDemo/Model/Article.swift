@@ -26,7 +26,7 @@ struct Article: Codable, Identifiable, Hashable {
     let categories: [String]?
     let displayTimestamp, lastUpdatedTimestamp: Int
     
-    var region: String? = nil
+    var region: Region? = nil
 
     enum CodingKeys: String, CodingKey {
         case title, url
@@ -60,6 +60,19 @@ extension Article {
             return ""
         }
         return url + "/webview"
+    }
+    
+    var regionImageName: String {
+        switch region {
+        case .EU:
+            return "globe.europe.africa"
+        case .US:
+            return "globe.americas"
+        case .ASIA:
+            return "globe.asia.australia"
+        case .none:
+            return ""
+        }
     }
 }
 
