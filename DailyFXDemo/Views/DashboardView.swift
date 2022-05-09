@@ -54,7 +54,6 @@ struct DashboardView: View {
             }// Nav
         }
     }
-    
 }
 
 struct DashboardView_Previews: PreviewProvider {
