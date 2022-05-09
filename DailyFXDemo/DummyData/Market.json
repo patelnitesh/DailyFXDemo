@@ -1,0 +1,13 @@
+{
+  "displayName": "Bund",
+  "marketId": "FGBL",
+  "epic": "CC.D.FGBL.UNC.IP",
+  "rateDetailURL": "https://www.dailyfx.com/charts?pair=Bund",
+  "topMarket": false,
+  "unscalingFactor": 100,
+  "unscaledDecimals": 3,
+  "calendarMapping": [
+    "USD",
+    "EUR"
+  ]
+}
