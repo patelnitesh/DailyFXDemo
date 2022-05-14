@@ -17,8 +17,6 @@ class DashBoardViewModelTests: XCTestCase {
 
     
     override func setUpWithError() throws {
-        print("**",#function)
-        
         let newsArticles = Bundle.main.decode(ArticlesResponse.self, from: "NewsArticles.json")
         mockDailyFxService = MockDailyFxService()
         mockDailyFxService.fetchArticles = Result.success(newsArticles).publisher.eraseToAnyPublisher()
@@ -26,36 +24,28 @@ class DashBoardViewModelTests: XCTestCase {
     }
 
     override func tearDownWithError() throws {
-        print("**",#function)
-        // Put teardown code here. This method is called after the invocation of each test method in the class.
         subject = nil
         mockDailyFxService = nil
     }
 
     func test_VMLoaded() throws {
-        print("**",#function)
         XCTAssertTrue(mockDailyFxService.getArticlesCalled)
     }
     
     func testGetArticlesPopulated() {
-        print("**",#function)
         let expectation = XCTestExpectation(description: "Articles received and state set to success")
         var expectedState:ResultState?
         
-        subject.$state.sink { state in
-            print("** State",state)
+        subject.$state.dropFirst().sink { state in
             expectedState = state
-            
-            //TODO: Expected state should have change from .loading to Success - check if we can compare enum value e.g.
-            // XCTAssertEqual(state, .success)
-            
             expectation.fulfill()
           }.store(in: &cancellable)
-
+        
         subject.getArticles()
 
         // VM state should have change to Success as API successfully finished
         XCTAssertNotNil(expectedState)
+        XCTAssertEqual(expectedState, .success)
         
         // Expecting to have 3 Sections
         XCTAssertEqual(subject.sectionItems().count, 4)
@@ -63,29 +53,24 @@ class DashBoardViewModelTests: XCTestCase {
     }
     
     func testGetArticlesPopulated_Failed() {
-        print("**",#function)
-        
         let expectation = XCTestExpectation(description: "Articles should not have received and state set to failed")
         var expectedState:ResultState?
-        
-        subject.$state.sink { state in
-            print("** State",state)
+        let expectedError = APIError.unknown
+
+        subject.$state.dropFirst(2).sink { state in
             expectedState = state
-            
-            //TODO: Expected state should have change from .loading to Success - check if we can compare enum value e.g.
-            // XCTAssertEqual(state, .success)
-            
+            XCTAssertEqual(expectedState, .failed(APIError.unknown.toEquatableError()))
             expectation.fulfill()
           }.store(in: &cancellable)
 
-        // Manupulated API to return error
-        
-        mockDailyFxService.fetchArticles = Fail(error: .unknown).eraseToAnyPublisher()
+        // Manipulated API to return error
+        mockDailyFxService.fetchArticles = Fail(error: expectedError).eraseToAnyPublisher()
         subject.getArticles()
 
         // VM state should have change to Failed with Error Type  DailyFXDemo.APIError.unknown as API failed
         XCTAssertNotNil(expectedState)
-        
+        XCTAssertEqual(expectedState, .failed(expectedError.toEquatableError()))
+
         // Expecting to have 3 Sections
         XCTAssertEqual(subject.sectionItems().count, 0)
      

@@ -38,6 +38,7 @@
 		1155F4C62825793B008D7BF6 /* IntExtensionsTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1155F4C52825793B008D7BF6 /* IntExtensionsTests.swift */; };
 		1168CEB228292CAB006F4E55 /* Article.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1168CEB128292CAB006F4E55 /* Article.swift */; };
 		1168CEB428292D21006F4E55 /* Market.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1168CEB328292D21006F4E55 /* Market.swift */; };
+		11CC1F52282EB4950028530A /* ResultState.swift in Sources */ = {isa = PBXBuildFile; fileRef = 11CC1F51282EB4950028530A /* ResultState.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -92,6 +93,7 @@
 		1155F4C52825793B008D7BF6 /* IntExtensionsTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = IntExtensionsTests.swift; sourceTree = "<group>"; };
 		1168CEB128292CAB006F4E55 /* Article.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Article.swift; sourceTree = "<group>"; };
 		1168CEB328292D21006F4E55 /* Market.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Market.swift; sourceTree = "<group>"; };
+		11CC1F51282EB4950028530A /* ResultState.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ResultState.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -247,6 +249,7 @@
 			children = (
 				1155F4B328253BB8008D7BF6 /* DashBoardViewModel.swift */,
 				11421074282694C6004DBB6A /* MarketsViewModel.swift */,
+				11CC1F51282EB4950028530A /* ResultState.swift */,
 			);
 			path = ViewModel;
 			sourceTree = "<group>";
@@ -423,6 +426,7 @@
 				1155F4BE282565E6008D7BF6 /* String+Extensions.swift in Sources */,
 				11421075282694C6004DBB6A /* MarketsViewModel.swift in Sources */,
 				1142107728269844004DBB6A /* MarketsView.swift in Sources */,
+				11CC1F52282EB4950028530A /* ResultState.swift in Sources */,
 				1155F4C228256E60008D7BF6 /* ErrorView.swift in Sources */,
 				1142107B2826B941004DBB6A /* WebView.swift in Sources */,
 				114210792826B5D5004DBB6A /* AsyncImageView.swift in Sources */,

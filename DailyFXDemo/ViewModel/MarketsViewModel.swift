@@ -36,7 +36,7 @@ class MarketsViewModel: ObservableObject {
             .sink { res in
                 switch res {
                 case .failure(let error):
-                    self.state = .failed(error: error)
+                    self.state = .failed(error.toEquatableError())
                 case .finished:
                     self.state = .success
                 }

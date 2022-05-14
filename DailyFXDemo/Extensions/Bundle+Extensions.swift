@@ -28,7 +28,7 @@ extension Bundle {
         } catch DecodingError.typeMismatch(let type, let context) {
             fatalError("Failed to decode \(file) from bundle due to type mismatch – \(context.debugDescription)  -- \(type) \(context)")
         } catch DecodingError.valueNotFound(let type, let context) {
-            fatalError("Failed to decode \(file) from bundle due to missing \(type) value – \(context.debugDescription)")
+            fatalError("Failed to decode \(file) from bundle due to missing \(type) value – \(context)")
         } catch DecodingError.dataCorrupted(let something) {
             fatalError("Failed to decode \(file) from bundle because it appears to be invalid JSON - \(something)")
         } catch {

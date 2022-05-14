@@ -1,167 +1,151 @@
 {
-  "breakingNews": "NFP: Non-farm Payrolls prints at +428k v/s +391k expected, Unemployment at 5.6% v/s 5.5%",
+  "breakingNews": null,
   "topNews": [
     {
-      "title": "NFP: Non-farm Payrolls Prints at +428k v/s +391k Forecast, Unemployment at 3.6%",
-      "url": "https://www.dailyfx.com/forex/market_alert/2022/05/06/NFP-Non-farm-Payrolls-print-Unemployment-Average-Hourly-Earnings-FOMC.html",
-      "description": "It's been a busy week but the calendar isn't finished yet, as we look at this morning's NFP release ahead of a number of Fed speakers on the calendar for later today.",
+      "title": "S&P 500, Nasdaq 100, Dow Jones Forecast for the Week Ahead",
+      "url": "https://www.dailyfx.com/forex/technical/article/fx_technical_weekly/2022/05/14/SP-500-Nasdaq-100-Dow-Jones-Forecast-for-the-Week-Ahead.html",
+      "description": "Stocks look to have temporarily bottomed this past week with a strong reversal, but it isn't expected to last for an extended period.",
       "content": null,
       "firstImageUrl": null,
-      "headlineImageUrl": "https://a.c-dn.net/b/4aejbc/headline_GettyImages-1150100051.jpg",
+      "headlineImageUrl": "https://a.c-dn.net/b/1rJoKN/headline_NYSE_5.JPG",
       "articleImageUrl": null,
       "backgroundImageUrl": null,
       "videoType": null,
       "videoId": null,
       "videoUrl": null,
       "videoThumbnail": null,
-      "newsKeywords": "NFP, USD, FOMC, SPX",
+      "newsKeywords": "S&P 500, Nasdaq 100, Dow Jones, Stocks, Equities, Inflation, Fed, FOMC",
       "authors": [
         {
-          "name": "James Stanley",
-          "title": "Senior Strategist",
-          "bio": "https://www.dailyfx.com/authors/bio/James_Stanley",
-          "email": null,
-          "phone": null,
-          "facebook": null,
-          "twitter": "https://twitter.com/JStanleyFX",
-          "googleplus": "https://plus.google.com/u/0/101780673289329325248/posts",
-          "subscription": null,
-          "rss": "https://www.dailyfx.com/feeds/james_stanley",
-          "descriptionLong": "&lt;h2&gt;&lt;strong&gt;At DailyFX Since:&lt;/strong&gt; 2010&lt;/h2&gt;  &lt;h2&gt;&lt;strong&gt;Trading Style&lt;/strong&gt;&lt;/h2&gt; &lt;ul&gt; &lt;li&gt;Analytical Profile: Technical and Fundamental &lt;/li&gt; &lt;li&gt;Time Frame: Medium-Term (2 Days to 2 Weeks) &lt;/li&gt; &lt;li&gt;Type: Event-Driven &lt;/li&gt; &lt;/ul&gt; &lt;p&gt;&lt;a href=&quot;/research/dna-fx&quot;&gt;Can we guess your trading personality?&lt;/a&gt;&lt;/p&gt;   &lt;h2&gt;&lt;strong&gt;Experience&lt;/strong&gt;&lt;/h2&gt; &lt;ul&gt;  &lt;li&gt;Started working with equities in 1999, options in 2000 and FX in 2009&lt;/li&gt; &lt;li&gt;Worked at Merrill Lynch, Fidelity and TD Ameritrade&lt;/li&gt; &lt;li&gt;Frequent contributor to ZeroHedge.com&lt;/li&gt; &lt;li&gt;Has spoken at numerous trader expos and conferences over the years&lt;/li&gt; &lt;/ul&gt; &lt;h2&gt;&lt;strong&gt;Education&lt;/strong&gt;&lt;/h2&gt; &lt;ul&gt; &lt;li&gt;Bachelor of Business Administration degree in Financial Services and Planning from Baylor University&#8217;s Hankamer School of Business&lt;/li&gt; &lt;/ul&gt;  &lt;h2&gt; &lt;strong&gt;Most Important Trading Lesson Learned&lt;/strong&gt;&lt;/h2&gt;  &lt;p&gt;&#8220;If you don&#8217;t manage your risk, it will manage you. Without a good defense, your offense doesn&#8217;t matter. And &#8211; hope is a terrible trading strategy.&#8221;&lt;/p&gt;",
-          "descriptionShort": "At DailyFX Since: 2010. Experience: Started working with equities in 1999, options in 2000 and FX in 2009. Worked at Merrill Lynch, Fidelity and TD Ameritrade. Frequent contributor to ZeroHedge.com. Has spoken at numerous trader expos and conferences over the years.",
-          "photo": "https://a.c-dn.net/b/31bXVG.png#James%20Stanley.png"
-        }
-      ],
-      "instruments": [
-        "USD",
-        "FOMC",
-        "SPX500"
-      ],
-      "tags": [
-        "Breaking News"
-      ],
-      "categories": [
-        "forex",
-        "market_alert"
-      ],
-      "displayTimestamp": 1651840260000,
-      "lastUpdatedTimestamp": 1651842587714
-    },
-    {
-      "title": "Live Data Coverage: April US NFP & Unemployment Rate",
-      "url": "https://www.dailyfx.com/forex/video/live_events/2022/05/06/live-data-coverage-april-us-nonfarm-payrolls-us-nfp-us-unemployment-rate-christopher-vecchio-cfa.html",
-      "description": "Consensus forecasts are looking for jobs growth of +391K while the unemployment rate (U3) is anticipated to drop to 3.5% from 3.6%.",
-      "content": null,
-      "firstImageUrl": null,
-      "headlineImageUrl": "https://a.c-dn.net/b/48ioRF/headline_us_flags.jpg",
-      "articleImageUrl": null,
-      "backgroundImageUrl": null,
-      "videoType": "youtube",
-      "videoId": "r9wKeIZDbLw",
-      "videoUrl": "https://www.youtube.com/embed/r9wKeIZDbLw",
-      "videoThumbnail": "https://img.youtube.com/vi/r9wKeIZDbLw/3.jpg",
-      "newsKeywords": "live data coverage, us nfp, us nonfarm payrolls, nonfarm payrolls, us jobs, us jobs report, us labor market, biden stimulus, fed taper, fed rate, fed hike, fed qt",
-      "authors": [
-        {
-          "name": "Christopher Vecchio, CFA",
-          "title": "Senior Strategist",
-          "bio": "https://www.dailyfx.com/authors/bio/Christopher_Vecchio",
-          "email": null,
-          "phone": null,
-          "facebook": "https://www.facebook.com/CVecchioFX",
-          "twitter": "https://twitter.com/cvecchiofx",
-          "googleplus": "https://plus.google.com/u/0/100856860161398886353/posts",
-          "subscription": null,
-          "rss": "https://www.dailyfx.com/feeds/picks_christopher_vecchio",
-          "descriptionLong": "&lt;h2&gt;&lt;strong&gt;At DailyFX Since:&lt;/strong&gt; 2008&lt;/h2&gt;  &lt;h2&gt;&lt;strong&gt;Trading Style&lt;/strong&gt;&lt;/h2&gt; &lt;ul&gt; &lt;li&gt;Analytical Profile: Technical and Fundamental&lt;/li&gt; &lt;li&gt;Time Frame: Long-Term (2 weeks to 6 months)&lt;/li&gt; &lt;li&gt;Type: Position&lt;/li&gt; &lt;/ul&gt; &lt;p&gt;&lt;a href=&quot;&quot;/research/dna-fx&quot;&quot;&gt;Can we guess your trading personality?&lt;/a&gt;&lt;/p&gt;   &lt;h2&gt;&lt;strong&gt;Experience&lt;/strong&gt;&lt;/h2&gt; &lt;ul&gt;  &lt;li&gt;Started trading in equities in 2004 and FX in 2008&lt;/li&gt; &lt;li&gt;Has worked with DailyFX since attending college in 2008 starting with an internship&lt;/li&gt; &lt;li&gt;Has consulted multi-national firms on FX hedging and has lectured at Duke Law School on FX derivatives trading&lt;/li&gt; &lt;/ul&gt; &lt;h2&gt;&lt;strong&gt;Education&lt;/strong&gt;&lt;/h2&gt; &lt;ul&gt; &lt;li&gt;B.A. in Economics &amp; B.A. in Political Science from Lafayette College&lt;/li&gt; &lt;li&gt;CFA charterholder as of August 2017&lt;/li&gt; &lt;/ul&gt;  &lt;h2&gt; &lt;strong&gt;Most Important Trading Lesson Learned&lt;/strong&gt;&lt;/h2&gt;  &lt;p&gt;&#8220;Trading is about taking decisive action, but you need to be divorced from your emotions. Getting married to a position in the market is a result of many cognitive biases interfering with a sound trading and investment strategy. It&#8217;s important to remain objective and be willing to admit defeat as soon as the evidence accumulates against your favor. It&#8217;s better to take a small loss and admit you were wrong than take a big loss because you insisted that you were right.&#8221;&lt;/p&gt;",
-          "descriptionShort": "At DailyFX Since: 2008. Experience: Started trading in equities in 2004 and FX in 2008. Has worked with DailyFX since attending college in 2008 starting with an internship. Has consulted multi-national firms on FX hedging and has lectured at Duke Law School on FX derivatives trading.",
-          "photo": "https://a.c-dn.net/b/0P4hRn.png#Christopher%20Vecchio.png"
-        }
-      ],
-      "instruments": [
-        "USD",
-        "USD/JPY",
-        "EUR/USD",
-        "SPX500",
-        "US30",
-        "NAS100",
-        "GOLD",
-        "AUD/USD",
-        "GBP/USD",
-        "USD/CAD",
-        "NZD/USD",
-        "USD/CHF",
-        "USD/CNH",
-        "FOMC",
-        "UUP",
-        "SPY",
-        "QQQ",
-        "DIA"
-      ],
-      "tags": [
-        "us nfp",
-        "us jobs report",
-        "live data coverage",
-        "nonfarm payrolls",
-        "omicron variant",
-        "fed taper",
-        "fed rate"
-      ],
-      "categories": [
-        "forex",
-        "video",
-        "live_events"
-      ],
-      "displayTimestamp": 1651839300000,
-      "lastUpdatedTimestamp": 1651839295918
-    },
-    {
-      "title": "Euro Forecast: ECB Hawks Out in Force, EUR/GBP Breakout Ahead of NFP",
-      "url": "https://www.dailyfx.com/forex/market_alert/2022/05/06/Euro-Forecast-ECB-Hawks-Out-in-Force-EURGBP-Breakout-Ahead-of-NFP-JM.html",
-      "description": "Euro sees modest recovery as ECB hawks come out in force. EUR/GBP breakout.",
-      "content": null,
-      "firstImageUrl": null,
-      "headlineImageUrl": "https://a.c-dn.net/b/0lgfTR/headline_Euro_3.jpg",
-      "articleImageUrl": null,
-      "backgroundImageUrl": null,
-      "videoType": null,
-      "videoId": null,
-      "videoUrl": null,
-      "videoThumbnail": null,
-      "newsKeywords": null,
-      "authors": [
-        {
-          "name": "Justin McQueen",
+          "name": "Paul Robinson",
           "title": "Strategist",
-          "bio": "https://www.dailyfx.com/authors/bio/Justin_McQueen",
+          "bio": "https://www.dailyfx.com/authors/bio/Paul_Robinson",
+          "email": null,
+          "phone": null,
+          "facebook": "https://www.facebook.com/DailyFX",
+          "twitter": "https://twitter.com/PaulRobinsonFX",
+          "googleplus": "https://plus.google.com/+dailyfx/posts",
+          "subscription": null,
+          "rss": null,
+          "descriptionLong": "&lt;h2&gt;&lt;strong&gt;At DailyFX Since:&lt;/strong&gt; 2016&lt;/h2&gt;  &lt;h2&gt;&lt;strong&gt;Trading Style&lt;/strong&gt;&lt;/h2&gt; &lt;ul&gt; &lt;li&gt;Analytical Profile: More Technical&lt;/li&gt; &lt;li&gt;Time Frame: Medium-Term (2 Days to 2 Weeks)&lt;/li&gt; &lt;li&gt;Type: Swing&lt;/li&gt; &lt;/ul&gt; &lt;p&gt;&lt;a href=&quot;/research/dna-fx&quot;&gt;Can we guess your trading personality?&lt;/a&gt;&lt;/p&gt;   &lt;h2&gt;&lt;strong&gt;Experience&lt;/strong&gt;&lt;/h2&gt; &lt;ul&gt;  &lt;li&gt;20 years of experience in trading and analysis in equities, futures, options, and FX&lt;/li&gt; &lt;li&gt;Worked over a decade as a proprietary trader for Schonfeld, JGM Securities, and Torus Capital LLC, operating in several markets &#8211; equities/options, futures, interest rates, and FX. Worked at FXCM for 5 years in various analytical and trading roles.&lt;/li&gt; &lt;/ul&gt;  &lt;h2&gt; &lt;strong&gt;Most Important Trading Lesson Learned&lt;/strong&gt;&lt;/h2&gt;  &lt;p&gt;&#8220;You could have the most insightful analysis and robust trading strategies, but if your mind isn&#8217;t &#8216;right&#8217;, then none of it will matter. With time I learned the importance of spending a significant portion of my time on the mental game and less on the &#8216;fun stuff&#8217;, like analyzing data and charts.&#8221;&lt;/p&gt;",
+          "descriptionShort": "At DailyFX Since: 2016. Experience: 20 years of experience in trading and analysis in equities, futures, options, and FX. Worked over a decade as a proprietary trader for Schonfeld, JGM Securities, and Torus Capital LLC, operating in several markets &#8211; equities/options, futures, interest rates, and FX. Worked at FXCM for 5 years in various analytical and trading roles.",
+          "photo": "https://a.c-dn.net/b/3YrKf4.png#Paul%20Robinson.png"
+        }
+      ],
+      "instruments": [
+        "NAS100",
+        "SPX500",
+        "US30"
+      ],
+      "tags": [
+        "Equities"
+      ],
+      "categories": [
+        "forex",
+        "technical",
+        "article",
+        "fx_technical_weekly"
+      ],
+      "displayTimestamp": 1652515200000,
+      "lastUpdatedTimestamp": 1652463762243
+    },
+    {
+      "title": "Bitcoin, Ether Doom or Gloom : Is Terra the Death of Digital Assets?",
+      "url": "https://www.dailyfx.com/forex/fundamental/forecast/weekly/title/2022/05/14/Bitcoin-Ether-Doom-or-Gloom-Is-Terra-the-Death-of-Digital-Assets.html",
+      "description": "Cryptocurrency remains indecisive after a week of turmoil and economic havoc. Bitcoin finds support above $30,000 but will Terra bounce back?",
+      "content": null,
+      "firstImageUrl": null,
+      "headlineImageUrl": "https://a.c-dn.net/b/4eiN6y/headline_BITCOIN.jpg",
+      "articleImageUrl": null,
+      "backgroundImageUrl": null,
+      "videoType": null,
+      "videoId": null,
+      "videoUrl": null,
+      "videoThumbnail": null,
+      "newsKeywords": "Bitcoin, Ethereum, Crypto, Luna, Tether, Terra, Stablecoins",
+      "authors": [
+        {
+          "name": "Tammy Da Costa",
+          "title": "Analyst",
+          "bio": "https://www.dailyfx.com/authors/bio/Tammy_Da_Costa",
           "email": null,
           "phone": null,
           "facebook": null,
-          "twitter": "https://twitter.com/JMcQueenFX",
+          "twitter": null,
           "googleplus": null,
           "subscription": null,
           "rss": null,
-          "descriptionLong": "&lt;h2&gt;&lt;strong&gt;At DailyFX Since:&lt;/strong&gt; 2018&lt;/h2&gt;  &lt;h2&gt;&lt;strong&gt;Trading Style&lt;/strong&gt;&lt;/h2&gt; &lt;ul&gt; &lt;li&gt;Analytical Profile: More Fundamental&lt;/li&gt; &lt;li&gt;Time Frame: Long-Term (Over 2 Weeks)&lt;/li&gt; &lt;li&gt;Type: Position&lt;/li&gt; &lt;/ul&gt; &lt;p&gt;&lt;a href=&quot;/research/dna-fx&quot;&gt;Can we guess your trading personality?&lt;/a&gt;&lt;/p&gt;   &lt;h2&gt;&lt;strong&gt;Experience&lt;/strong&gt;&lt;/h2&gt; &lt;ul&gt;  &lt;li&gt;Started as an analyst servicing intra-day proprietary traders via a squawk service in 2014, covering the Asian, US and European markets. &lt;/li&gt; &lt;li&gt;Has worked with DailyFX since 2018 as market analyst&lt;/li&gt; &lt;li&gt;Has spoken at several investor / client conferences since joining DailyFX&lt;/li&gt; &lt;/ul&gt; &lt;h2&gt;&lt;strong&gt;Education&lt;/strong&gt;&lt;/h2&gt; &lt;ul&gt; &lt;li&gt;Bachelor&#8217;s degree in Business Economics at Nottingham Business School&lt;/li&gt; &lt;/ul&gt;  &lt;h2&gt; &lt;strong&gt;Most Important Trading Lesson Learned&lt;/strong&gt;&lt;/h2&gt;  &lt;p&gt;&#8220;Markets can remain irrational longer than you can remain solvent&#8221;&lt;/p&gt;",
-          "descriptionShort": "At DailyFX Since: 2018. Experience: Started as an analyst servicing intra-day proprietary traders via a squawk service in 2014, covering the Asian, US and European markets. Has worked with DailyFX since 2018 as market analyst. Has spoken at several investor / client conferences since joining DailyFX.",
-          "photo": "https://a.c-dn.net/b/2XN4B1.png#Justin%20McQueen.png"
+          "descriptionLong": "&lt;h2&gt;&lt;strong&gt;At DailyFX Since:&lt;/strong&gt; 2019&lt;/h2&gt;  &lt;h2&gt;&lt;strong&gt;Trading Style&lt;/strong&gt;&lt;/h2&gt; &lt;ul&gt; &lt;li&gt;Analytical Profile: More Technical&lt;/li&gt; &lt;li&gt;Time Frame: Short Term (Up to 2 Days)&lt;/li&gt; &lt;li&gt;Type: Swing&lt;/li&gt; &lt;/ul&gt; &lt;p&gt;&lt;a href=&quot;/research/dna-fx&quot;&gt;Can we guess your trading personality?&lt;/a&gt;&lt;/p&gt;   &lt;h2&gt;&lt;strong&gt;Experience&lt;/strong&gt;&lt;/h2&gt; &lt;ul&gt;  &lt;li&gt;Started trading in 2008 as part of an Investment Challenge&lt;/li&gt; &lt;li&gt;Has worked in the Financial sector since 2013 for banks such as Investec and FNB&lt;/li&gt; &lt;li&gt;Joined IG in 2016 as a sales trader and progressed to move to DailyFX in 2019 as a market writer&lt;/li&gt; &lt;/ul&gt;  &lt;h2&gt;&lt;strong&gt;Education&lt;/strong&gt;&lt;/h2&gt; &lt;ul&gt; &lt;li&gt;Bachelor&#8217;s degree in Economics and Econometrics&lt;/li&gt; &lt;/ul&gt;  &lt;h2&gt;&lt;strong&gt;Most Important Trading Lesson Learned&lt;/strong&gt;&lt;/h2&gt;  &lt;p&gt;&#8220;There is a fine line between confidence and arrogance and in trading, it is essential to know when that line is being crossed. Regardless of the amount of trading experience one has, risk management is always crucial to any trading strategy.&#8221;&lt;/p&gt;",
+          "descriptionShort": "At DailyFX Since: 2019. Experience: Started trading in 2008 as part of an Investment Challenge. Has worked in the Financial sector since 2013 for banks such as Investec and FNB. Joined IG in 2016 as a sales trader and progressed to move to DailyFX in 2019 as a market writer.",
+          "photo": "https://a.c-dn.net/b/1xxhaC.png#Timmy%20Da%20Costa"
         }
       ],
       "instruments": [
-        "EUR",
-        "EUR/USD",
-        "EUR/GBP"
+        "BITCOIN",
+        "ETHEREUM"
       ],
       "tags": [
-        "Euro",
-        "EUR/USD",
-        "NFP"
+        "Bitcoin"
       ],
       "categories": [
         "forex",
-        "market_alert"
+        "fundamental",
+        "forecast",
+        "weekly",
+        "title"
       ],
-      "displayTimestamp": 1651837200000,
-      "lastUpdatedTimestamp": 1651838213113
+      "displayTimestamp": 1652500800000,
+      "lastUpdatedTimestamp": 1652471332247
+    },
+    {
+      "title": "Australian Dollar Forecast: Jobs Report in Focus as Bear Market Pressures AUD/USD",
+      "url": "https://www.dailyfx.com/forex/fundamental/forecast/weekly/aud/2022/05/14/Australian-Dollar-Forecast-Jobs-Report-in-Focus-as-Bear-Market-Pressures-AUDUSD.html",
+      "description": "The Australian Dollar fell, extending losses this past week. Will a jobs report revive some strength for AUD/USD? Technical and sentiment analysis seems to hint otherwise.",
+      "content": null,
+      "firstImageUrl": null,
+      "headlineImageUrl": "https://a.c-dn.net/b/35zvTC/headline_shutterstock_215506225.jpg",
+      "articleImageUrl": null,
+      "backgroundImageUrl": null,
+      "videoType": null,
+      "videoId": null,
+      "videoUrl": null,
+      "videoThumbnail": null,
+      "newsKeywords": "Australian Dollar, AUD/USD, AUD/JPY, AU Jobs Report",
+      "authors": [
+        {
+          "name": "Daniel Dubrovsky",
+          "title": "Strategist",
+          "bio": "https://www.dailyfx.com/authors/bio/Daniel_Dubrovsky",
+          "email": null,
+          "phone": null,
+          "facebook": null,
+          "twitter": "https://twitter.com/ddubrovskyFX",
+          "googleplus": null,
+          "subscription": null,
+          "rss": null,
+          "descriptionLong": "&lt;h2&gt;&lt;strong&gt;At DailyFX Since:&lt;/strong&gt; 2014&lt;/h2&gt;  &lt;h2&gt;&lt;strong&gt;Trading Style&lt;/strong&gt;&lt;/h2&gt; &lt;ul&gt; &lt;li&gt;Analytical Profile: Technical and Fundamental&lt;/li&gt; &lt;li&gt;Time Frame: Long-Term (Over 2 Weeks)&lt;/li&gt; &lt;li&gt;Type: Position&lt;/li&gt; &lt;/ul&gt; &lt;p&gt;&lt;a href=&quot;/research/dna-fx&quot;&gt;Can we guess your trading personality?&lt;/a&gt;&lt;/p&gt;   &lt;h2&gt;&lt;strong&gt;Experience&lt;/strong&gt;&lt;/h2&gt; &lt;ul&gt;  &lt;li&gt;Began trading foreign exchange markets in 2016&lt;/li&gt; &lt;li&gt;Started at DailyFX as an internship during college in 2014&lt;/li&gt; &lt;li&gt;Hosted seminars, presented at the Chicago TradersEXPO in 2019&lt;/li&gt; &lt;li&gt;Quoted by publications such as The Telegraph, Yahoo Finance and Nasdaq.com&lt;/li&gt; &lt;/ul&gt; &lt;h2&gt;&lt;strong&gt;Education&lt;/strong&gt;&lt;/h2&gt; &lt;ul&gt; &lt;li&gt;Holds a bachelor&#8217;s degree cum laude in Economics from San Francisco State University&lt;/li&gt; &lt;/ul&gt;  &lt;h2&gt; &lt;strong&gt;Most Important Trading Lesson Learned&lt;/strong&gt;&lt;/h2&gt;  &lt;p&gt;&#8220;A key lesson I developed as a trader is &lt;a href=&quot;/forex/fundamental/article/special_report/2019/12/25/top-trading-lessons-the-critical-task-of-learning-to-lose-gracefully.html?ref-author=Dubrovsky&quot;&gt;learning to lose gracefully&lt;/a&gt;. I always start with proper risk management and exit scenarios before assessing my targets. This helps suppress emotion from one&#8217;s strategy when the market inevitably begins moving against you. In the long run, this means winning trades compensate for losing ones and is an important step towards being able to generate returns.&#8221;&lt;/p&gt;",
+          "descriptionShort": "At DailyFX Since: 2014. Experience: Began trading foreign exchange markets in 2016. Started at DailyFX as an internship during college in 2014. Hosted seminars, presented at the Chicago TradersEXPO in 2019. Quoted by publications such as The Telegraph, Yahoo Finance and Nasdaq.com.",
+          "photo": "https://a.c-dn.net/b/2K0db2.png#Daniel%20Dubrovsky.png"
+        }
+      ],
+      "instruments": [
+        "AUD",
+        "AUD/USD",
+        "USD",
+        "USDOLLAR"
+      ],
+      "tags": [
+        "FX"
+      ],
+      "categories": [
+        "forex",
+        "fundamental",
+        "forecast",
+        "weekly",
+        "aud"
+      ],
+      "displayTimestamp": 1652486400000,
+      "lastUpdatedTimestamp": 1652464044618
     }
   ],
   "dailyBriefings": {
@@ -226,19 +210,19 @@
     ],
     "asia": [
       {
-        "title": "Euro Leaps as British Pound Sinks and Rate Hikes Rattle Markets. Where to For EUR/GBP?",
-        "url": "https://www.dailyfx.com/forex/fundamental/daily_briefing/session_briefing/euro_open/2022/05/06/Euro-Leaps-as-British-Pound-Sinks-and-Rate-Hikes-Rattle-Markets.-Where-to-For-EURGBP.html",
-        "description": "The Euro managed to avoid a rout as the US Dollar took flight on Fed hawkishness that pummelled Sterling. Will EUR/GBP continue to make new highs?",
+        "title": "Crude Oil Lifted as US CPI Remains Stubbornly High and Risk Aversion Hits Equities",
+        "url": "https://www.dailyfx.com/forex/fundamental/daily_briefing/session_briefing/euro_open/2022/05/12/Crude-Oil-Lifted-as-US-CPI-Remains-Stubbornly-High-and-Risk-Aversion-Hits-Equities.html",
+        "description": "Crude oil holds up despite the recent turmoil permeating other markets and a stubbornly high US CPI. Will WTI see a volatility break out?",
         "content": null,
         "firstImageUrl": null,
-        "headlineImageUrl": "https://a.c-dn.net/b/2IKhuF/headline_eur.jpg",
+        "headlineImageUrl": "https://a.c-dn.net/b/12LPVg/headline_north_sea_oil_2.JPG",
         "articleImageUrl": null,
         "backgroundImageUrl": null,
         "videoType": null,
         "videoId": null,
         "videoUrl": null,
         "videoThumbnail": null,
-        "newsKeywords": "EURO, EUR/GBP, British Pound, US Dollar, Crude Oil, Fed, BoE, USD/CNY",
+        "newsKeywords": "Crude Oil, US Dollar, US CPI, Fed, USD/CNY",
         "authors": [
           {
             "name": "Daniel McCarthy",
@@ -257,20 +241,12 @@
           }
         ],
         "instruments": [
-          "EUR/GBP",
-          "EUR/USD",
-          "GBP/USD",
           "OIL",
           "USDOLLAR",
-          "EUR",
-          "GBP"
+          "FOMC"
         ],
         "tags": [
-          "eur-gbp",
-          "gbp-usd",
-          "eur-usd",
-          "crude-oil",
-          "us-dollar-index"
+          "crude-oil"
         ],
         "categories": [
           "forex",
@@ -279,25 +255,25 @@
           "session_briefing",
           "euro_open"
         ],
-        "displayTimestamp": 1651813200000,
-        "lastUpdatedTimestamp": 1651814845325
+        "displayTimestamp": 1652331600000,
+        "lastUpdatedTimestamp": 1652336727509
       }
     ],
     "us": [
       {
-        "title": "US Dollar Price Action Setups: EUR/USD, GBP/USD, AUD/USD, USD/JPY",
-        "url": "https://www.dailyfx.com/forex/fundamental/daily_briefing/session_briefing/daily_fundamentals/2022/05/05/US-Dollar-Price-Action-Setups-EUR-USD-EURUSD-GBP-USD-GBPUSD-AUD-USD-AUDUSD-USD-JPY-USDJPY.html",
-        "description": "The Fed dropped the hammer yesterday but the market reaction was equity strength and USD weakness. Both themes that are already being faded. Tomorrow brings NFP.",
+        "title": "US Dollar Price Action Setups: EUR/USD, USD/JPY Breakdowns",
+        "url": "https://www.dailyfx.com/forex/fundamental/daily_briefing/session_briefing/daily_fundamentals/2022/05/12/US-Dollar-Price-Action-Setups-USD-EUR-USD-EURUSD-USD-JPY-USDJPY.html",
+        "description": "The US Dollar has set a fresh 19-year high, helped along by another breakdown in EUR/USD. USD/JPY also turned and that remains of interest.",
         "content": null,
         "firstImageUrl": null,
-        "headlineImageUrl": "https://a.c-dn.net/b/1qAVpM/headline_GettyImages-175399977.jpg",
+        "headlineImageUrl": "https://a.c-dn.net/b/2znqb9/headline_GettyImages-175399977.jpg",
         "articleImageUrl": null,
         "backgroundImageUrl": null,
         "videoType": null,
         "videoId": null,
         "videoUrl": null,
         "videoThumbnail": null,
-        "newsKeywords": "USD, EUR/USD, GBP/USD, USD/JPY, AUD/USD",
+        "newsKeywords": "EUR/USD, USD/JPY, EURUSD, USDJPY",
         "authors": [
           {
             "name": "James Stanley",
@@ -319,14 +295,9 @@
           "USD",
           "USDOLLAR",
           "EUR/USD",
-          "EUR",
-          "GBP",
-          "GBP/USD",
-          "AUD/USD",
-          "AUD",
           "USD/JPY",
-          "JPY",
-          "FOMC"
+          "EUR",
+          "JPY"
         ],
         "tags": [
           "LiveEdu"
@@ -338,26 +309,26 @@
           "session_briefing",
           "daily_fundamentals"
         ],
-        "displayTimestamp": 1651760580000,
-        "lastUpdatedTimestamp": 1651760504838
+        "displayTimestamp": 1652365500000,
+        "lastUpdatedTimestamp": 1652365543957
       }
     ]
   },
   "technicalAnalysis": [
     {
-      "title": "Nasdaq 100 Long-term Chart Very Bearish, Market Darlings Failing",
-      "url": "https://www.dailyfx.com/forex/technical/home/analysis/spx500/2022/05/06/Nasdaq-100-Long-term-Chart-Very-Bearish-Market-Darlings-Failing-PRtech.html",
-      "description": "The NDX is well off its highs, but the long-term chart suggests that a much more significant decline is in progress.",
+      "title": "S&P 500, Nasdaq 100, Dow Jones Forecast for the Week Ahead",
+      "url": "https://www.dailyfx.com/forex/technical/article/fx_technical_weekly/2022/05/14/SP-500-Nasdaq-100-Dow-Jones-Forecast-for-the-Week-Ahead.html",
+      "description": "Stocks look to have temporarily bottomed this past week with a strong reversal, but it isn't expected to last for an extended period.",
       "content": null,
       "firstImageUrl": null,
-      "headlineImageUrl": "https://a.c-dn.net/b/1DXSi0/headline_NASDAQ_3.JPG",
+      "headlineImageUrl": "https://a.c-dn.net/b/1rJoKN/headline_NYSE_5.JPG",
       "articleImageUrl": null,
       "backgroundImageUrl": null,
       "videoType": null,
       "videoId": null,
       "videoUrl": null,
       "videoThumbnail": null,
-      "newsKeywords": "nasdaq 100, technical analysis, paul robinson",
+      "newsKeywords": "S&P 500, Nasdaq 100, Dow Jones, Stocks, Equities, Inflation, Fed, FOMC",
       "authors": [
         {
           "name": "Paul Robinson",
@@ -375,154 +346,74 @@
           "photo": "https://a.c-dn.net/b/3YrKf4.png#Paul%20Robinson.png"
         }
       ],
-      "instruments": null,
+      "instruments": [
+        "NAS100",
+        "SPX500",
+        "US30"
+      ],
       "tags": [
-        "nasdaq 100"
+        "Equities"
       ],
       "categories": [
         "forex",
         "technical",
-        "home",
-        "analysis",
-        "spx500"
+        "article",
+        "fx_technical_weekly"
       ],
-      "displayTimestamp": 1651842000000,
-      "lastUpdatedTimestamp": 1651839299324
+      "displayTimestamp": 1652515200000,
+      "lastUpdatedTimestamp": 1652463762243
     },
     {
-      "title": "Becoming a Better Trader – Fixing Mistakes, Working on Weaknesses",
-      "url": "https://www.dailyfx.com/forex/technical/article/special_report/2021/11/27/Becoming-a-Better-Trader-Fixing-Mistakes-Working-on-Weaknesses-PRtech.html",
-      "description": "An overlooked area of trader development is identifying weaknesses and turning them into strengths.",
+      "title": "Gold Technical Forecast: Gold Price Collapse Testing Critical Support",
+      "url": "https://www.dailyfx.com/forex/technical/article/fx_technical_weekly/2022/05/13/Gold-Technical-Forecast-Gold-Price-Collapse-Testing-Critical-Support.html",
+      "description": "Gold prices collapsed for a fourth consecutive week with the plunge now attempting a break of key technical support. The levels that matter on the XAU/USD weekly chart.",
       "content": null,
       "firstImageUrl": null,
-      "headlineImageUrl": "https://a.c-dn.net/b/345IBB/headline_GettyImages-1049230476.jpg",
+      "headlineImageUrl": "https://a.c-dn.net/b/3EBnzL/headline_GOLD_10.JPG",
       "articleImageUrl": null,
       "backgroundImageUrl": null,
-      "videoType": "youtube",
-      "videoId": "wQKbqvOg3DE",
-      "videoUrl": "https://www.youtube.com/embed/wQKbqvOg3DE",
-      "videoThumbnail": "https://img.youtube.com/vi/wQKbqvOg3DE/3.jpg",
-      "newsKeywords": "better trader, paul robinson",
+      "videoType": null,
+      "videoId": null,
+      "videoUrl": null,
+      "videoThumbnail": null,
+      "newsKeywords": null,
       "authors": [
         {
-          "name": "Paul Robinson",
+          "name": "Michael Boutros",
           "title": "Strategist",
-          "bio": "https://www.dailyfx.com/authors/bio/Paul_Robinson",
+          "bio": "https://www.dailyfx.com/authors/bio/Michael_Boutros",
           "email": null,
           "phone": null,
-          "facebook": "https://www.facebook.com/DailyFX",
-          "twitter": "https://twitter.com/PaulRobinsonFX",
-          "googleplus": "https://plus.google.com/+dailyfx/posts",
+          "facebook": "https://www.facebook.com/MBForex",
+          "twitter": "https://twitter.com/mbforex",
+          "googleplus": "https://plus.google.com/u/0/106339520756311360853/posts",
           "subscription": null,
-          "rss": null,
-          "descriptionLong": "&lt;h2&gt;&lt;strong&gt;At DailyFX Since:&lt;/strong&gt; 2016&lt;/h2&gt;  &lt;h2&gt;&lt;strong&gt;Trading Style&lt;/strong&gt;&lt;/h2&gt; &lt;ul&gt; &lt;li&gt;Analytical Profile: More Technical&lt;/li&gt; &lt;li&gt;Time Frame: Medium-Term (2 Days to 2 Weeks)&lt;/li&gt; &lt;li&gt;Type: Swing&lt;/li&gt; &lt;/ul&gt; &lt;p&gt;&lt;a href=&quot;/research/dna-fx&quot;&gt;Can we guess your trading personality?&lt;/a&gt;&lt;/p&gt;   &lt;h2&gt;&lt;strong&gt;Experience&lt;/strong&gt;&lt;/h2&gt; &lt;ul&gt;  &lt;li&gt;20 years of experience in trading and analysis in equities, futures, options, and FX&lt;/li&gt; &lt;li&gt;Worked over a decade as a proprietary trader for Schonfeld, JGM Securities, and Torus Capital LLC, operating in several markets &#8211; equities/options, futures, interest rates, and FX. Worked at FXCM for 5 years in various analytical and trading roles.&lt;/li&gt; &lt;/ul&gt;  &lt;h2&gt; &lt;strong&gt;Most Important Trading Lesson Learned&lt;/strong&gt;&lt;/h2&gt;  &lt;p&gt;&#8220;You could have the most insightful analysis and robust trading strategies, but if your mind isn&#8217;t &#8216;right&#8217;, then none of it will matter. With time I learned the importance of spending a significant portion of my time on the mental game and less on the &#8216;fun stuff&#8217;, like analyzing data and charts.&#8221;&lt;/p&gt;",
-          "descriptionShort": "At DailyFX Since: 2016. Experience: 20 years of experience in trading and analysis in equities, futures, options, and FX. Worked over a decade as a proprietary trader for Schonfeld, JGM Securities, and Torus Capital LLC, operating in several markets &#8211; equities/options, futures, interest rates, and FX. Worked at FXCM for 5 years in various analytical and trading roles.",
-          "photo": "https://a.c-dn.net/b/3YrKf4.png#Paul%20Robinson.png"
+          "rss": "https://www.dailyfx.com/feeds/picks_michael_boutros",
+          "descriptionLong": "&lt;h2&gt;&lt;strong&gt;At DailyFX Since:&lt;/strong&gt; 2010&lt;/h2&gt;  &lt;h2&gt;&lt;strong&gt;Trading Style&lt;/strong&gt;&lt;/h2&gt; &lt;ul&gt; &lt;li&gt;Analytical Profile: More Technical&lt;/li&gt; &lt;li&gt;Time Frame: Medium-Term (2 Days to 2 Weeks)&lt;/li&gt; &lt;li&gt;Type: Swing&lt;/li&gt; &lt;/ul&gt; &lt;p&gt;&lt;a href=&quot;/research/dna-fx&quot;&gt;Can we guess your trading personality?&lt;/a&gt;&lt;/p&gt;   &lt;h2&gt;&lt;strong&gt;Experience&lt;/strong&gt;&lt;/h2&gt; &lt;ul&gt;  &lt;li&gt;Nearly 20 years of experience trading FX, Commodities &amp; Equity Indices&lt;/li&gt; &lt;li&gt;15 years work experience on FX trade desks, brokers and at market news / trader websites including Forex.com, MG Financial, Velocity Trade and FXCM&lt;/li&gt; &lt;li&gt;Michael has spoken at numerous trader expos and conferences over the years including Las Vegas, Dubai, Australia and New York.&lt;/li&gt; &lt;li&gt;Sited by numerous financial publications including Reuters, Wall St Journal, CNBC and Bloomberg&lt;/li&gt; &lt;/ul&gt; &lt;h2&gt;&lt;strong&gt;Education&lt;/strong&gt;&lt;/h2&gt; &lt;ul&gt; &lt;li&gt;Bachelor&#8217;s degree in Economics / Philosophy&lt;/li&gt; &lt;/ul&gt;  &lt;h2&gt; &lt;strong&gt;Most Important Trading Lesson Learned&lt;/strong&gt;&lt;/h2&gt;  &lt;p&gt;&#8220;There&#8217;s no Holy Grail in trading- it takes strategy, good risk management and most importantly, discipline. Respect the Technicals- It&#8217;s all about the setup. Know what you&#8217;re trying to do, in what time-frame and why. Always trade what you see, not what you hear and stay focused on the levels. Remember, price never lies.&#8221;&lt;/p&gt;",
+          "descriptionShort": "At DailyFX Since: 2010. Experience: Nearly 20 years of experience trading FX, Commodities &amp; Equity Indices. 15 years work experience on FX trade desks, brokers and at market news / trader websites including Forex.com, MG Financial, Velocity Trade and FXCM. Michael has spoken at numerous trader expos and conferences over the years including Las Vegas, Dubai, Australia and New York. Sited by numerous financial publications including Reuters, Wall St Journal, CNBC and Bloomberg.",
+          "photo": "https://a.c-dn.net/b/3GjGzd.png#Michael%20Boutros.png"
         }
       ],
-      "instruments": null,
+      "instruments": [
+        "GOLD"
+      ],
       "tags": [
-        "Evergreen"
+        "FX",
+        "Gold"
       ],
       "categories": [
         "forex",
         "technical",
         "article",
-        "special_report"
+        "fx_technical_weekly"
       ],
-      "displayTimestamp": 1651818600000,
-      "lastUpdatedTimestamp": 1651814389893
+      "displayTimestamp": 1652472000000,
+      "lastUpdatedTimestamp": 1652468789528
     },
     {
-      "title": "Supply and Demand vs Support and Resistance ",
-      "url": "https://www.dailyfx.com/forex/technical/article/special_report/2021/11/26/supply-and-demand-vs-support-and-resistance.html",
-      "description": "Supply and demand and support and resistance are similar trading concepts but have core differences.",
-      "content": null,
-      "firstImageUrl": null,
-      "headlineImageUrl": "https://a.c-dn.net/b/22rhf0/headline_GettyImages-482730527.jpg",
-      "articleImageUrl": null,
-      "backgroundImageUrl": null,
-      "videoType": null,
-      "videoId": null,
-      "videoUrl": null,
-      "videoThumbnail": null,
-      "newsKeywords": null,
-      "authors": [
-        {
-          "name": "Warren Venketas",
-          "title": "Analyst",
-          "bio": "https://www.dailyfx.com/authors/bio/Warren_Venketas",
-          "email": null,
-          "phone": null,
-          "facebook": null,
-          "twitter": null,
-          "googleplus": null,
-          "subscription": null,
-          "rss": null,
-          "descriptionLong": "&lt;h2&gt;&lt;strong&gt;At DailyFX Since:&lt;/strong&gt; 2018&lt;/h2&gt;  &lt;h2&gt;&lt;strong&gt;Trading Style&lt;/strong&gt;&lt;/h2&gt; &lt;ul&gt; &lt;li&gt;Analytical Profile: Fundamental and Technical&lt;/li&gt; &lt;li&gt;Time Frame: Medium-Term (2 Days to 2 Weeks)&lt;/li&gt; &lt;li&gt;Type: Swing&lt;/li&gt; &lt;/ul&gt; &lt;p&gt;&lt;a href=&quot;/research/dna-fx&quot;&gt;Can we guess your trading personality?&lt;/a&gt;&lt;/p&gt;   &lt;h2&gt;&lt;strong&gt;Experience&lt;/strong&gt;&lt;/h2&gt; &lt;ul&gt;  &lt;li&gt;6 years of experience in financial markets&lt;/li&gt; &lt;li&gt;Worked 2.5 years at a Sales Trader at IG&lt;/li&gt; &lt;/ul&gt;  &lt;h2&gt;&lt;strong&gt;Education&lt;/strong&gt;&lt;/h2&gt; &lt;ul&gt; &lt;li&gt;University of KwaZulu Natal - Bachelor of Business Science (Honours in Finance and Economics)&lt;/li&gt; &lt;/ul&gt;  &lt;h2&gt;&lt;strong&gt;Most Important Trading Lesson Learned&lt;/strong&gt;&lt;/h2&gt;  &lt;p&gt;&#8220;Do not trade for the sake of trading. Regardless of trading style, traders must conduct in depth analysis and research with proper risk management technique before entering into a trade.&#8221;&lt;/p&gt;",
-          "descriptionShort": "At DailyFX Since: 2018. Experience: 6 years of experience in financial markets. Worked 2.5 years at a Sales Trader at IG.",
-          "photo": "https://a.c-dn.net/b/1lGC9B.png#Warren%20Venketas.png"
-        }
-      ],
-      "instruments": null,
-      "tags": [
-        "Evergreen"
-      ],
-      "categories": [
-        "forex",
-        "technical",
-        "article",
-        "special_report"
-      ],
-      "displayTimestamp": 1651784400000,
-      "lastUpdatedTimestamp": 1651762958427
-    },
-    {
-      "title": "Improve Your Trading Bias",
-      "url": "https://www.dailyfx.com/forex/technical/article/special_report/2021/11/26/improve-your-trading-bias.html",
-      "description": "Trading bias allows both novice and experienced traders to make informative decisions.",
-      "content": null,
-      "firstImageUrl": null,
-      "headlineImageUrl": "https://a.c-dn.net/b/2hKlJ2/headline_GettyImages-161714089.jpg",
-      "articleImageUrl": null,
-      "backgroundImageUrl": null,
-      "videoType": null,
-      "videoId": null,
-      "videoUrl": null,
-      "videoThumbnail": null,
-      "newsKeywords": null,
-      "authors": [
-        {
-          "name": "Warren Venketas",
-          "title": "Analyst",
-          "bio": "https://www.dailyfx.com/authors/bio/Warren_Venketas",
-          "email": null,
-          "phone": null,
-          "facebook": null,
-          "twitter": null,
-          "googleplus": null,
-          "subscription": null,
-          "rss": null,
-          "descriptionLong": "&lt;h2&gt;&lt;strong&gt;At DailyFX Since:&lt;/strong&gt; 2018&lt;/h2&gt;  &lt;h2&gt;&lt;strong&gt;Trading Style&lt;/strong&gt;&lt;/h2&gt; &lt;ul&gt; &lt;li&gt;Analytical Profile: Fundamental and Technical&lt;/li&gt; &lt;li&gt;Time Frame: Medium-Term (2 Days to 2 Weeks)&lt;/li&gt; &lt;li&gt;Type: Swing&lt;/li&gt; &lt;/ul&gt; &lt;p&gt;&lt;a href=&quot;/research/dna-fx&quot;&gt;Can we guess your trading personality?&lt;/a&gt;&lt;/p&gt;   &lt;h2&gt;&lt;strong&gt;Experience&lt;/strong&gt;&lt;/h2&gt; &lt;ul&gt;  &lt;li&gt;6 years of experience in financial markets&lt;/li&gt; &lt;li&gt;Worked 2.5 years at a Sales Trader at IG&lt;/li&gt; &lt;/ul&gt;  &lt;h2&gt;&lt;strong&gt;Education&lt;/strong&gt;&lt;/h2&gt; &lt;ul&gt; &lt;li&gt;University of KwaZulu Natal - Bachelor of Business Science (Honours in Finance and Economics)&lt;/li&gt; &lt;/ul&gt;  &lt;h2&gt;&lt;strong&gt;Most Important Trading Lesson Learned&lt;/strong&gt;&lt;/h2&gt;  &lt;p&gt;&#8220;Do not trade for the sake of trading. Regardless of trading style, traders must conduct in depth analysis and research with proper risk management technique before entering into a trade.&#8221;&lt;/p&gt;",
-          "descriptionShort": "At DailyFX Since: 2018. Experience: 6 years of experience in financial markets. Worked 2.5 years at a Sales Trader at IG.",
-          "photo": "https://a.c-dn.net/b/1lGC9B.png#Warren%20Venketas.png"
-        }
-      ],
-      "instruments": null,
-      "tags": null,
-      "categories": [
-        "forex",
-        "technical",
-        "article",
-        "special_report"
-      ],
-      "displayTimestamp": 1651773600000,
-      "lastUpdatedTimestamp": 1651762884618
-    },
-    {
-      "title": "EUR/GBP IG Client Sentiment: Our data shows traders are now at their least net-long EUR/GBP since Sep 29 when EUR/GBP traded near 0.86. ",
-      "url": "https://www.dailyfx.com/forex/technical/sentiment/2022/05/05/EURGBP-IG-Client-Sentiment-1623.html",
-      "description": "Traders are further net-short than yesterday and last week, and the combination of current sentiment and recent changes gives us a stronger EUR/GBP-bullish contrarian trading bias.",
+      "title": "USD/CAD IG Client Sentiment: Our data shows traders are now net-long USD/CAD for the first time since May 05, 2022 20:00 GMT when USD/CAD traded near 1.28. ",
+      "url": "https://www.dailyfx.com/forex/technical/sentiment/2022/05/13/USDCAD-IG-Client-Sentiment-1823.html",
+      "description": "Traders are further net-long than yesterday and last week, and the combination of current sentiment and recent changes gives us a stronger USD/CAD-bearish contrarian trading bias.",
       "content": null,
       "firstImageUrl": null,
       "headlineImageUrl": null,
@@ -551,7 +442,7 @@
         }
       ],
       "instruments": [
-        "EUR/GBP"
+        "USD/CAD"
       ],
       "tags": null,
       "categories": [
@@ -559,18 +450,148 @@
         "technical",
         "sentiment"
       ],
-      "displayTimestamp": 1651767780000,
-      "lastUpdatedTimestamp": 1651767830474
+      "displayTimestamp": 1652466180000,
+      "lastUpdatedTimestamp": 1652466231410
+    },
+    {
+      "title": "France 40 IG Client Sentiment: Our data shows traders are now net-short France 40 for the first time since May 05, 2022 09:00 GMT when France 40 traded near 6,321.90. ",
+      "url": "https://www.dailyfx.com/forex/technical/sentiment/2022/05/13/FR40-IG-Client-Sentiment-1623.html",
+      "description": "Traders are further net-short than yesterday and last week, and the combination of current sentiment and recent changes gives us a stronger France 40-bullish contrarian trading bias.",
+      "content": null,
+      "firstImageUrl": null,
+      "headlineImageUrl": null,
+      "articleImageUrl": null,
+      "backgroundImageUrl": null,
+      "videoType": null,
+      "videoId": null,
+      "videoUrl": null,
+      "videoThumbnail": null,
+      "newsKeywords": null,
+      "authors": [
+        {
+          "name": "Research",
+          "title": "Research Team",
+          "bio": null,
+          "email": null,
+          "phone": null,
+          "facebook": "https://www.facebook.com/DailyFX",
+          "twitter": null,
+          "googleplus": "https://plus.google.com/+dailyfx/posts",
+          "subscription": null,
+          "rss": null,
+          "descriptionLong": "The DailyFX research team is composed of experts in the forex and commodities markets. The DailyFX research team provides the latest foreign exchange and commodity news and analysis.",
+          "descriptionShort": null,
+          "photo": "https://a.c-dn.net/b/17NCrz/Research_team.png"
+        }
+      ],
+      "instruments": [
+        "FRA40"
+      ],
+      "tags": null,
+      "categories": [
+        "forex",
+        "technical",
+        "sentiment"
+      ],
+      "displayTimestamp": 1652458980000,
+      "lastUpdatedTimestamp": 1652459037807
+    },
+    {
+      "title": "Germany 40 IG Client Sentiment: Our data shows traders are now net-short Germany 40 for the first time since May 05, 2022 14:00 GMT when Germany 40 traded near 13,860.40. ",
+      "url": "https://www.dailyfx.com/forex/technical/sentiment/2022/05/13/DE30-IG-Client-Sentiment-1623.html",
+      "description": "Traders are further net-short than yesterday and last week, and the combination of current sentiment and recent changes gives us a stronger Germany 40-bullish contrarian trading bias.",
+      "content": null,
+      "firstImageUrl": null,
+      "headlineImageUrl": null,
+      "articleImageUrl": null,
+      "backgroundImageUrl": null,
+      "videoType": null,
+      "videoId": null,
+      "videoUrl": null,
+      "videoThumbnail": null,
+      "newsKeywords": null,
+      "authors": [
+        {
+          "name": "Research",
+          "title": "Research Team",
+          "bio": null,
+          "email": null,
+          "phone": null,
+          "facebook": "https://www.facebook.com/DailyFX",
+          "twitter": null,
+          "googleplus": "https://plus.google.com/+dailyfx/posts",
+          "subscription": null,
+          "rss": null,
+          "descriptionLong": "The DailyFX research team is composed of experts in the forex and commodities markets. The DailyFX research team provides the latest foreign exchange and commodity news and analysis.",
+          "descriptionShort": null,
+          "photo": "https://a.c-dn.net/b/17NCrz/Research_team.png"
+        }
+      ],
+      "instruments": [
+        "GER30"
+      ],
+      "tags": null,
+      "categories": [
+        "forex",
+        "technical",
+        "sentiment"
+      ],
+      "displayTimestamp": 1652458980000,
+      "lastUpdatedTimestamp": 1652459033555
     }
   ],
   "specialReport": [
     {
+      "title": "Futures Trading 101: Understanding the Basics",
+      "url": "https://www.dailyfx.com/forex/fundamental/article/special_report/2022/05/13/Futures-Trading-101-Understanding-the-Basics.html",
+      "description": null,
+      "content": null,
+      "firstImageUrl": null,
+      "headlineImageUrl": "https://a.c-dn.net/b/1fQn8O/headline_numbers2.jpg",
+      "articleImageUrl": null,
+      "backgroundImageUrl": null,
+      "videoType": "youtube",
+      "videoId": "H3FV0dP_P4o",
+      "videoUrl": "https://www.youtube.com/embed/H3FV0dP_P4o",
+      "videoThumbnail": "https://img.youtube.com/vi/H3FV0dP_P4o/3.jpg",
+      "newsKeywords": null,
+      "authors": [
+        {
+          "name": "Paul Robinson",
+          "title": "Strategist",
+          "bio": "https://www.dailyfx.com/authors/bio/Paul_Robinson",
+          "email": null,
+          "phone": null,
+          "facebook": "https://www.facebook.com/DailyFX",
+          "twitter": "https://twitter.com/PaulRobinsonFX",
+          "googleplus": "https://plus.google.com/+dailyfx/posts",
+          "subscription": null,
+          "rss": null,
+          "descriptionLong": "&lt;h2&gt;&lt;strong&gt;At DailyFX Since:&lt;/strong&gt; 2016&lt;/h2&gt;  &lt;h2&gt;&lt;strong&gt;Trading Style&lt;/strong&gt;&lt;/h2&gt; &lt;ul&gt; &lt;li&gt;Analytical Profile: More Technical&lt;/li&gt; &lt;li&gt;Time Frame: Medium-Term (2 Days to 2 Weeks)&lt;/li&gt; &lt;li&gt;Type: Swing&lt;/li&gt; &lt;/ul&gt; &lt;p&gt;&lt;a href=&quot;/research/dna-fx&quot;&gt;Can we guess your trading personality?&lt;/a&gt;&lt;/p&gt;   &lt;h2&gt;&lt;strong&gt;Experience&lt;/strong&gt;&lt;/h2&gt; &lt;ul&gt;  &lt;li&gt;20 years of experience in trading and analysis in equities, futures, options, and FX&lt;/li&gt; &lt;li&gt;Worked over a decade as a proprietary trader for Schonfeld, JGM Securities, and Torus Capital LLC, operating in several markets &#8211; equities/options, futures, interest rates, and FX. Worked at FXCM for 5 years in various analytical and trading roles.&lt;/li&gt; &lt;/ul&gt;  &lt;h2&gt; &lt;strong&gt;Most Important Trading Lesson Learned&lt;/strong&gt;&lt;/h2&gt;  &lt;p&gt;&#8220;You could have the most insightful analysis and robust trading strategies, but if your mind isn&#8217;t &#8216;right&#8217;, then none of it will matter. With time I learned the importance of spending a significant portion of my time on the mental game and less on the &#8216;fun stuff&#8217;, like analyzing data and charts.&#8221;&lt;/p&gt;",
+          "descriptionShort": "At DailyFX Since: 2016. Experience: 20 years of experience in trading and analysis in equities, futures, options, and FX. Worked over a decade as a proprietary trader for Schonfeld, JGM Securities, and Torus Capital LLC, operating in several markets &#8211; equities/options, futures, interest rates, and FX. Worked at FXCM for 5 years in various analytical and trading roles.",
+          "photo": "https://a.c-dn.net/b/3YrKf4.png#Paul%20Robinson.png"
+        }
+      ],
+      "instruments": null,
+      "tags": [
+        "women-in-finance"
+      ],
+      "categories": [
+        "forex",
+        "fundamental",
+        "article",
+        "special_report"
+      ],
+      "displayTimestamp": 1652475600000,
+      "lastUpdatedTimestamp": 1652450949363
+    },
+    {
       "title": "Trend Trading | The Trend is Your Friend",
-      "url": "https://www.dailyfx.com/forex/fundamental/article/special_report/2022/05/05/Trend-Trading--The-Trend-is-Your-Friend.html",
+      "url": "https://www.dailyfx.com/forex/fundamental/article/special_report/2022/05/13/Trend-Trading--The-Trend-is-Your-Friend.html",
       "description": "In this video you will learn about how a basic trendline and other technical indicators included in most charting packages can be useful for the purpose of determining the direction of the trend and how using multiple time frames, traders can determine the longer trend and then zero in on the most recent price action.",
       "content": null,
       "firstImageUrl": null,
-      "headlineImageUrl": "https://a.c-dn.net/b/1fSJtn/headline_data17.JPG",
+      "headlineImageUrl": "https://a.c-dn.net/b/4hUWBN/headline_data17.JPG",
       "articleImageUrl": null,
       "backgroundImageUrl": null,
       "videoType": "youtube",
@@ -596,30 +617,124 @@
         }
       ],
       "instruments": null,
-      "tags": null,
+      "tags": [
+        "women-in-finance"
+      ],
       "categories": [
         "forex",
         "fundamental",
         "article",
         "special_report"
       ],
-      "displayTimestamp": 1651764600000,
-      "lastUpdatedTimestamp": 1651743398439
+      "displayTimestamp": 1652464800000,
+      "lastUpdatedTimestamp": 1652451216943
     },
     {
-      "title": "NFP and Forex: What is NFP and How to Trade It?",
-      "url": "https://www.dailyfx.com/forex/fundamental/article/special_report/2020/12/01/nfp-and-forex-trading.html",
-      "description": "Non-farm payroll figures are highly anticipated by forex traders. Find out how they affect trading.",
+      "title": "Bearish GBP: Rates Market Far Too Aggressive vs Cautious BoE: Top Trade Opportunities",
+      "url": "https://www.dailyfx.com/forex/fundamental/article/special_report/2022/04/04/Bearish-GBP-Rates-Market-Far-Too-Aggressive-vs-Cautious-BoE-Top-Trade-Opportunities.html",
+      "description": "Despite the Bank of England hiking at the fastest pace in over a decade, Cable is on course for its worst quarterly performance since Q1 2020.",
       "content": null,
       "firstImageUrl": null,
-      "headlineImageUrl": "https://a.c-dn.net/b/2VCVkW/headline_NFP_1.jpg",
+      "headlineImageUrl": "https://a.c-dn.net/b/4vfXw2/headline_BRITISH_STERLING_1.JPG",
       "articleImageUrl": null,
       "backgroundImageUrl": null,
       "videoType": null,
       "videoId": null,
       "videoUrl": null,
       "videoThumbnail": null,
-      "newsKeywords": "NFP",
+      "newsKeywords": null,
+      "authors": [
+        {
+          "name": "Justin McQueen",
+          "title": "Strategist",
+          "bio": "https://www.dailyfx.com/authors/bio/Justin_McQueen",
+          "email": null,
+          "phone": null,
+          "facebook": null,
+          "twitter": "https://twitter.com/JMcQueenFX",
+          "googleplus": null,
+          "subscription": null,
+          "rss": null,
+          "descriptionLong": "&lt;h2&gt;&lt;strong&gt;At DailyFX Since:&lt;/strong&gt; 2018&lt;/h2&gt;  &lt;h2&gt;&lt;strong&gt;Trading Style&lt;/strong&gt;&lt;/h2&gt; &lt;ul&gt; &lt;li&gt;Analytical Profile: More Fundamental&lt;/li&gt; &lt;li&gt;Time Frame: Long-Term (Over 2 Weeks)&lt;/li&gt; &lt;li&gt;Type: Position&lt;/li&gt; &lt;/ul&gt; &lt;p&gt;&lt;a href=&quot;/research/dna-fx&quot;&gt;Can we guess your trading personality?&lt;/a&gt;&lt;/p&gt;   &lt;h2&gt;&lt;strong&gt;Experience&lt;/strong&gt;&lt;/h2&gt; &lt;ul&gt;  &lt;li&gt;Started as an analyst servicing intra-day proprietary traders via a squawk service in 2014, covering the Asian, US and European markets. &lt;/li&gt; &lt;li&gt;Has worked with DailyFX since 2018 as market analyst&lt;/li&gt; &lt;li&gt;Has spoken at several investor / client conferences since joining DailyFX&lt;/li&gt; &lt;/ul&gt; &lt;h2&gt;&lt;strong&gt;Education&lt;/strong&gt;&lt;/h2&gt; &lt;ul&gt; &lt;li&gt;Bachelor&#8217;s degree in Business Economics at Nottingham Business School&lt;/li&gt; &lt;/ul&gt;  &lt;h2&gt; &lt;strong&gt;Most Important Trading Lesson Learned&lt;/strong&gt;&lt;/h2&gt;  &lt;p&gt;&#8220;Markets can remain irrational longer than you can remain solvent&#8221;&lt;/p&gt;",
+          "descriptionShort": "At DailyFX Since: 2018. Experience: Started as an analyst servicing intra-day proprietary traders via a squawk service in 2014, covering the Asian, US and European markets. Has worked with DailyFX since 2018 as market analyst. Has spoken at several investor / client conferences since joining DailyFX.",
+          "photo": "https://a.c-dn.net/b/2XN4B1.png#Justin%20McQueen.png"
+        }
+      ],
+      "instruments": [
+        "GBP/USD"
+      ],
+      "tags": [
+        "Bank of England"
+      ],
+      "categories": [
+        "forex",
+        "fundamental",
+        "article",
+        "special_report"
+      ],
+      "displayTimestamp": 1652448600000,
+      "lastUpdatedTimestamp": 1652441944012
+    },
+    {
+      "title": "Short SPX: Top Trade Opportunities",
+      "url": "https://www.dailyfx.com/forex/fundamental/article/special_report/2022/04/03/Short-SPX-Top-Trade-Opportunities.html",
+      "description": "As 2021 wound to a close, the animal spirits that had become the stock market for much of the previous year were being broken. Then in Q1 the market itself broke. The recent decline was deep, but hardly brutal.",
+      "content": null,
+      "firstImageUrl": null,
+      "headlineImageUrl": "https://a.c-dn.net/b/3YKjWb/headline_NYSE_18.JPG",
+      "articleImageUrl": null,
+      "backgroundImageUrl": null,
+      "videoType": null,
+      "videoId": null,
+      "videoUrl": null,
+      "videoThumbnail": null,
+      "newsKeywords": "SPX, S&P 500, SPY, Equities, Stocks",
+      "authors": [
+        {
+          "name": "Paul Robinson",
+          "title": "Strategist",
+          "bio": "https://www.dailyfx.com/authors/bio/Paul_Robinson",
+          "email": null,
+          "phone": null,
+          "facebook": "https://www.facebook.com/DailyFX",
+          "twitter": "https://twitter.com/PaulRobinsonFX",
+          "googleplus": "https://plus.google.com/+dailyfx/posts",
+          "subscription": null,
+          "rss": null,
+          "descriptionLong": "&lt;h2&gt;&lt;strong&gt;At DailyFX Since:&lt;/strong&gt; 2016&lt;/h2&gt;  &lt;h2&gt;&lt;strong&gt;Trading Style&lt;/strong&gt;&lt;/h2&gt; &lt;ul&gt; &lt;li&gt;Analytical Profile: More Technical&lt;/li&gt; &lt;li&gt;Time Frame: Medium-Term (2 Days to 2 Weeks)&lt;/li&gt; &lt;li&gt;Type: Swing&lt;/li&gt; &lt;/ul&gt; &lt;p&gt;&lt;a href=&quot;/research/dna-fx&quot;&gt;Can we guess your trading personality?&lt;/a&gt;&lt;/p&gt;   &lt;h2&gt;&lt;strong&gt;Experience&lt;/strong&gt;&lt;/h2&gt; &lt;ul&gt;  &lt;li&gt;20 years of experience in trading and analysis in equities, futures, options, and FX&lt;/li&gt; &lt;li&gt;Worked over a decade as a proprietary trader for Schonfeld, JGM Securities, and Torus Capital LLC, operating in several markets &#8211; equities/options, futures, interest rates, and FX. Worked at FXCM for 5 years in various analytical and trading roles.&lt;/li&gt; &lt;/ul&gt;  &lt;h2&gt; &lt;strong&gt;Most Important Trading Lesson Learned&lt;/strong&gt;&lt;/h2&gt;  &lt;p&gt;&#8220;You could have the most insightful analysis and robust trading strategies, but if your mind isn&#8217;t &#8216;right&#8217;, then none of it will matter. With time I learned the importance of spending a significant portion of my time on the mental game and less on the &#8216;fun stuff&#8217;, like analyzing data and charts.&#8221;&lt;/p&gt;",
+          "descriptionShort": "At DailyFX Since: 2016. Experience: 20 years of experience in trading and analysis in equities, futures, options, and FX. Worked over a decade as a proprietary trader for Schonfeld, JGM Securities, and Torus Capital LLC, operating in several markets &#8211; equities/options, futures, interest rates, and FX. Worked at FXCM for 5 years in various analytical and trading roles.",
+          "photo": "https://a.c-dn.net/b/3YrKf4.png#Paul%20Robinson.png"
+        }
+      ],
+      "instruments": [
+        "SPX500"
+      ],
+      "tags": [
+        "Equities"
+      ],
+      "categories": [
+        "forex",
+        "fundamental",
+        "article",
+        "special_report"
+      ],
+      "displayTimestamp": 1652445000000,
+      "lastUpdatedTimestamp": 1652441904215
+    },
+    {
+      "title": "Forex Vs Stocks: Top Differences & How to Trade Them",
+      "url": "https://www.dailyfx.com/forex/fundamental/article/special_report/2021/01/22/forex-vs-stocks.html",
+      "description": "Learn the main differences between forex and stocks to understand the best market to trade based on your trading style and strategy.",
+      "content": null,
+      "firstImageUrl": null,
+      "headlineImageUrl": "https://a.c-dn.net/b/3v1USJ/headline_traders1.jpg",
+      "articleImageUrl": null,
+      "backgroundImageUrl": null,
+      "videoType": null,
+      "videoId": null,
+      "videoUrl": null,
+      "videoThumbnail": null,
+      "newsKeywords": "Forex vs stocks",
       "authors": [
         {
           "name": "David Bradfield",
@@ -647,138 +762,8 @@
         "article",
         "special_report"
       ],
-      "displayTimestamp": 1651759200000,
-      "lastUpdatedTimestamp": 1651758943707
-    },
-    {
-      "title": "Markets DailyFX Analysts Are Most Interested In",
-      "url": "https://www.dailyfx.com/forex/fundamental/article/special_report/2022/05/05/Markets-DailyFX-Analysts-Are-Most-Interested-In.html",
-      "description": "DailyFX analysts give their expert predictions and their 2022 Q2 forecasts to help you with your trading strategy and analysis, minimizing risk and maximizing returns. Predictions our analysts offer are based on fundamental factors such as economic outlook, capital flows and trade balances, or technical indicators such as moving averages and MACD.",
-      "content": null,
-      "firstImageUrl": null,
-      "headlineImageUrl": "https://a.c-dn.net/b/08Zx7a/headline_NYSE_TRADERS_4.JPG",
-      "articleImageUrl": null,
-      "backgroundImageUrl": null,
-      "videoType": "youtube",
-      "videoId": "BbwEuAXKjm4",
-      "videoUrl": "https://www.youtube.com/embed/BbwEuAXKjm4",
-      "videoThumbnail": "https://img.youtube.com/vi/BbwEuAXKjm4/3.jpg",
-      "newsKeywords": null,
-      "authors": [
-        {
-          "name": "Research",
-          "title": "Research Team",
-          "bio": null,
-          "email": null,
-          "phone": null,
-          "facebook": "https://www.facebook.com/DailyFX",
-          "twitter": null,
-          "googleplus": "https://plus.google.com/+dailyfx/posts",
-          "subscription": null,
-          "rss": null,
-          "descriptionLong": "The DailyFX research team is composed of experts in the forex and commodities markets. The DailyFX research team provides the latest foreign exchange and commodity news and analysis.",
-          "descriptionShort": null,
-          "photo": "https://a.c-dn.net/b/17NCrz/Research_team.png"
-        }
-      ],
-      "instruments": null,
-      "tags": null,
-      "categories": [
-        "forex",
-        "fundamental",
-        "article",
-        "special_report"
-      ],
-      "displayTimestamp": 1651759200000,
-      "lastUpdatedTimestamp": 1651742159737
-    },
-    {
-      "title": "A Guide to Trading Psychology",
-      "url": "https://www.dailyfx.com/forex/fundamental/article/special_report/2021/11/25/trading-psychology.html",
-      "description": "The psychology of trading is often overlooked but is a key part of a professional trader’s skillset.",
-      "content": null,
-      "firstImageUrl": null,
-      "headlineImageUrl": "https://a.c-dn.net/b/28TGzu/headline_GettyImages-1068942638.jpg",
-      "articleImageUrl": null,
-      "backgroundImageUrl": null,
-      "videoType": null,
-      "videoId": null,
-      "videoUrl": null,
-      "videoThumbnail": null,
-      "newsKeywords": null,
-      "authors": [
-        {
-          "name": "Richard Snow",
-          "title": "Analyst",
-          "bio": "https://www.dailyfx.com/authors/bio/Richard_Snow",
-          "email": null,
-          "phone": null,
-          "facebook": null,
-          "twitter": null,
-          "googleplus": null,
-          "subscription": null,
-          "rss": null,
-          "descriptionLong": "&lt;h2&gt;&lt;strong&gt;At DailyFX Since:&lt;/strong&gt; 2018&lt;/h2&gt;  &lt;h2&gt;&lt;strong&gt;Trading Style&lt;/strong&gt;&lt;/h2&gt; &lt;ul&gt; &lt;li&gt;Analytical Profile: Technical and Fundamental&lt;/li&gt; &lt;li&gt;Time Frame: Medium-Term (2 Days to 2 Weeks)&lt;/li&gt; &lt;li&gt;Type: Swing&lt;/li&gt; &lt;/ul&gt; &lt;p&gt;&lt;a href=&quot;/research/dna-fx&quot;&gt;Can we guess your trading personality?&lt;/a&gt;&lt;/p&gt;   &lt;h2&gt;&lt;strong&gt;Experience&lt;/strong&gt;&lt;/h2&gt; &lt;ul&gt;  &lt;li&gt;4 years of experience in financial markets&lt;/li&gt; &lt;li&gt;Worked 1 year at IG in the trading services team&lt;/li&gt; &lt;/ul&gt;  &lt;h2&gt;&lt;strong&gt;Education&lt;/strong&gt;&lt;/h2&gt; &lt;ul&gt; &lt;li&gt;Bcom Honours degree in Investment Management from the University of Johannesburg&lt;/li&gt; &lt;li&gt;Bcom Honours degree in Insurance &amp; Risk Management from the University of the Witwatersrand (Wits)&lt;/li&gt; &lt;/ul&gt;  &lt;h2&gt;&lt;strong&gt;Most Important Trading Lesson Learned&lt;/strong&gt;&lt;/h2&gt;  &lt;p&gt;&#8220;Sometimes the best trade is no trade at all. A rushed trade without proper analysis and execution is a recipe for disaster&#8221;&lt;/p&gt;",
-          "descriptionShort": "At DailyFX Since: 2018. Experience: 4 years of experience in financial markets. Worked 1 year at IG in the trading services team.",
-          "photo": "https://a.c-dn.net/b/034jL7.png#Richard%20Snow.png"
-        }
-      ],
-      "instruments": null,
-      "tags": [
-        "Evergreen"
-      ],
-      "categories": [
-        "forex",
-        "fundamental",
-        "article",
-        "special_report"
-      ],
-      "displayTimestamp": 1651755600000,
-      "lastUpdatedTimestamp": 1651751001178
-    },
-    {
-      "title": "7 Step Trading Checklist Before Entering Any Trade",
-      "url": "https://www.dailyfx.com/forex/fundamental/article/special_report/2021/11/25/trading-checklist.html",
-      "description": "A checklist is a vital part of the trading process; helping traders to be disciplined and confident.",
-      "content": null,
-      "firstImageUrl": null,
-      "headlineImageUrl": "https://a.c-dn.net/b/4oBhzH/headline_GettyImages-1167016699.jpg",
-      "articleImageUrl": null,
-      "backgroundImageUrl": null,
-      "videoType": "youtube",
-      "videoId": "A2up1NowQw0",
-      "videoUrl": "https://www.youtube.com/embed/A2up1NowQw0",
-      "videoThumbnail": "https://img.youtube.com/vi/A2up1NowQw0/3.jpg",
-      "newsKeywords": null,
-      "authors": [
-        {
-          "name": "Richard Snow",
-          "title": "Analyst",
-          "bio": "https://www.dailyfx.com/authors/bio/Richard_Snow",
-          "email": null,
-          "phone": null,
-          "facebook": null,
-          "twitter": null,
-          "googleplus": null,
-          "subscription": null,
-          "rss": null,
-          "descriptionLong": "&lt;h2&gt;&lt;strong&gt;At DailyFX Since:&lt;/strong&gt; 2018&lt;/h2&gt;  &lt;h2&gt;&lt;strong&gt;Trading Style&lt;/strong&gt;&lt;/h2&gt; &lt;ul&gt; &lt;li&gt;Analytical Profile: Technical and Fundamental&lt;/li&gt; &lt;li&gt;Time Frame: Medium-Term (2 Days to 2 Weeks)&lt;/li&gt; &lt;li&gt;Type: Swing&lt;/li&gt; &lt;/ul&gt; &lt;p&gt;&lt;a href=&quot;/research/dna-fx&quot;&gt;Can we guess your trading personality?&lt;/a&gt;&lt;/p&gt;   &lt;h2&gt;&lt;strong&gt;Experience&lt;/strong&gt;&lt;/h2&gt; &lt;ul&gt;  &lt;li&gt;4 years of experience in financial markets&lt;/li&gt; &lt;li&gt;Worked 1 year at IG in the trading services team&lt;/li&gt; &lt;/ul&gt;  &lt;h2&gt;&lt;strong&gt;Education&lt;/strong&gt;&lt;/h2&gt; &lt;ul&gt; &lt;li&gt;Bcom Honours degree in Investment Management from the University of Johannesburg&lt;/li&gt; &lt;li&gt;Bcom Honours degree in Insurance &amp; Risk Management from the University of the Witwatersrand (Wits)&lt;/li&gt; &lt;/ul&gt;  &lt;h2&gt;&lt;strong&gt;Most Important Trading Lesson Learned&lt;/strong&gt;&lt;/h2&gt;  &lt;p&gt;&#8220;Sometimes the best trade is no trade at all. A rushed trade without proper analysis and execution is a recipe for disaster&#8221;&lt;/p&gt;",
-          "descriptionShort": "At DailyFX Since: 2018. Experience: 4 years of experience in financial markets. Worked 1 year at IG in the trading services team.",
-          "photo": "https://a.c-dn.net/b/034jL7.png#Richard%20Snow.png"
-        }
-      ],
-      "instruments": null,
-      "tags": [
-        "Evergreen"
-      ],
-      "categories": [
-        "forex",
-        "fundamental",
-        "article",
-        "special_report"
-      ],
-      "displayTimestamp": 1651743000000,
-      "lastUpdatedTimestamp": 1651736702118
+      "displayTimestamp": 1652423400000,
+      "lastUpdatedTimestamp": 1652410927394
     }
   ]
 }

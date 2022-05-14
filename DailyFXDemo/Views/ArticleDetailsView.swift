@@ -21,7 +21,7 @@ struct ArticleDetailsView: View {
                 VStack(alignment: .leading, spacing: 10) {
                     
                     // Title
-                    Text(article.title).font(.title2)
+                    Text(article.title ?? "").font(.title2)
                     
                     // Author Info
                     HStack(alignment: .center, spacing: 10) {

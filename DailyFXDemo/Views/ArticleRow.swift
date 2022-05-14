@@ -17,8 +17,8 @@ struct ArticleRow: View {
                     Text(region.rawValue).font(.headline)
                 }
             }
-            Text(newsArticle.title).font(.headline)
-            Text(newsArticle.specialReportDescription).font(.callout)
+            Text(newsArticle.title ?? "").font(.headline)
+            Text(newsArticle.description ?? "").font(.callout)
             Text(newsArticle.displayTimestamp.convertToDisplayDate()).font(.caption2)
         }.padding(10)
     }

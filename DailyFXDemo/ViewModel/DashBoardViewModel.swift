@@ -8,12 +8,6 @@
 import Foundation
 import Combine
 
-enum ResultState {
-    case loading
-    case failed(error: Error)
-    case success
-}
-
 enum ArticleType: String {
     case breakingNews = "Breaking News"
     case topNews = "Top News"
@@ -48,7 +42,7 @@ public class DashBoardViewModel: ObservableObject {
                 switch res {
                 case .failure(let error):
                     self.dashboardResponse = nil
-                    self.state = .failed(error: error)
+                    self.state = .failed(error.toEquatableError())
                 case .finished:
                     self.state = .success
                 }
@@ -72,7 +66,6 @@ public class DashBoardViewModel: ObservableObject {
                              DisplayableArticlesSections(header: .specialReport, rows: newsArticles.specialReport)])
         return dashboardData
     }
-    
     
     // This definitely need Refactor
     func regionSpecificArticles()-> [DisplayableArticlesSections] {

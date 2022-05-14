@@ -10,9 +10,9 @@ import Foundation
 // MARK: - Article
 struct Article: Codable, Identifiable, Hashable {
     let id = UUID()
-    let title: String
+    let title: String?
     let url: String?
-    let specialReportDescription: String
+    let description: String?
     let content, firstImageURL: String?
     let headlineImageURL: String?
     let articleImageURL, backgroundImageURL: String?
@@ -30,7 +30,7 @@ struct Article: Codable, Identifiable, Hashable {
 
     enum CodingKeys: String, CodingKey {
         case title, url
-        case specialReportDescription = "description"
+        case description = "description"
         case content
         case firstImageURL = "firstImageUrl"
         case headlineImageURL = "headlineImageUrl"
